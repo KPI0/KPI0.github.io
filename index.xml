@@ -9,5 +9,15 @@
       <link>https://kpi0.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://kpi0.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://kpi0.github.io/%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kpi0.github.io/%E6%B5%8B%E8%AF%95/</guid>
+      <description>title: &amp;ldquo;{{ replace .Name &amp;ldquo;-&amp;rdquo; &amp;quot; &amp;quot; | title }}&amp;rdquo; #标题 date: {{ .Date }} #创建时间 lastmod: {{ .Date }} #更新时间 author: [&amp;ldquo;Sulv&amp;rdquo;] #作者 categories:
+分类1 分类2 tags: 标签1 标签2 description: &amp;quot;&amp;quot; #描述 weight: # 输入1可以顶置文章，用来给文章展示排序，不填就默认按时间排序 slug: &amp;quot;&amp;quot; draft: false # 是否为草稿 comments: true #是否展示评论 showToc: true # 显示目录 TocOpen: true # 自动展开目录 hidemeta: false # 是否隐藏文章的元信息，如发布日期、作者等 disableShare: true # 底部不显示分享栏 showbreadcrumbs: true #顶部显示当前路径 cover: image: &amp;quot;&amp;quot; #图片路径：posts/tech/文章1/picture.png caption: &amp;quot;&amp;quot; #图片底部描述 alt: &amp;quot;&amp;quot; relative: false </description>
+    </item>
+    
   </channel>
 </rss>
