@@ -1,0 +1,9 @@
+#body img[alt$="<"] {
+    float: left;
+}
+#body img[alt$="><"] {
+    float: center;
+}
+#body img[alt$=">"] {
+    float: right;
+}
