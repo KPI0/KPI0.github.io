@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 19 Sep 2022 22:05:02 +0800</lastBuildDate><atom:link href="https://kpi0.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Sep 2022 21:56:10 +0800</lastBuildDate><atom:link href="https://kpi0.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>https://kpi0.github.io/tags/blog/</link>
+      <pubDate>Tue, 20 Sep 2022 21:56:10 +0800</pubDate>
+      
+      <guid>https://kpi0.github.io/tags/blog/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>about</title>
       <link>https://kpi0.github.io/tags/about/</link>
