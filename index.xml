@@ -13,11 +13,11 @@
     <lastBuildDate>Tue, 20 Sep 2022 21:56:10 +0800</lastBuildDate><atom:link href="https://kpi0.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>comments.html配置参考</title>
-      <link>https://kpi0.github.io/posts/blog/comments.html%E9%85%8D%E7%BD%AE%E5%8F%82%E8%80%83/</link>
+      <link>https://kpi0.github.io/posts/blog/%E8%AF%84%E8%AE%BAcomments.html%E9%85%8D%E7%BD%AE%E5%8F%82%E8%80%83/</link>
       <pubDate>Tue, 20 Sep 2022 21:56:10 +0800</pubDate>
       
-      <guid>https://kpi0.github.io/posts/blog/comments.html%E9%85%8D%E7%BD%AE%E5%8F%82%E8%80%83/</guid>
-      <description>文件目录\HUGO\blog\layouts\partials\comments.html &amp;lt;div&amp;gt; &amp;lt;div class=&amp;quot;pagination__title&amp;quot;&amp;gt; &amp;lt;span class=&amp;quot;pagination__title-h&amp;quot; style=&amp;quot;font-size: 20px;&amp;quot;&amp;gt;评论&amp;l</description>
+      <guid>https://kpi0.github.io/posts/blog/%E8%AF%84%E8%AE%BAcomments.html%E9%85%8D%E7%BD%AE%E5%8F%82%E8%80%83/</guid>
+      <description>文件目录\HUGO\blog\layouts\partials\comments.html 参考教程： Sulv&amp;rsquo;s Blog twikoo官方教程 Twikoo Vercel 部署教程 &amp;lt;div&amp;gt; &amp;lt;div</description>
     </item>
     
     <item>
@@ -31,10 +31,10 @@
     
     <item>
       <title>search.html配置参考</title>
-      <link>https://kpi0.github.io/posts/blog/search.html%E9%85%8D%E7%BD%AE%E5%8F%82%E8%80%83/</link>
+      <link>https://kpi0.github.io/posts/blog/%E6%90%9C%E7%B4%A2search.html%E9%85%8D%E7%BD%AE%E5%8F%82%E8%80%83/</link>
       <pubDate>Tue, 20 Sep 2022 21:56:10 +0800</pubDate>
       
-      <guid>https://kpi0.github.io/posts/blog/search.html%E9%85%8D%E7%BD%AE%E5%8F%82%E8%80%83/</guid>
+      <guid>https://kpi0.github.io/posts/blog/%E6%90%9C%E7%B4%A2search.html%E9%85%8D%E7%BD%AE%E5%8F%82%E8%80%83/</guid>
       <description>文件目录\HUGO\blog\layouts_default\search.html {{- define &amp;quot;main&amp;quot; }} &amp;lt;header class=&amp;quot;page-header&amp;quot;&amp;gt; &amp;lt;h1&amp;gt;{{- (printf &amp;quot;%s&amp;amp;nbsp;&amp;quot; .Title ) | htmlUnescape -}} &amp;lt;!-- &amp;lt;svg xmlns=&amp;quot;http://www.w3.org/2000/svg&amp;quot; width=&amp;quot;28&amp;quot; height=&amp;quot;28&amp;quot; viewBox=&amp;quot;0 0 24 24&amp;quot; fill=&amp;quot;none&amp;quot; stroke=&amp;quot;currentColor&amp;quot; stroke-width=&amp;quot;2&amp;quot; stroke-linecap=&amp;quot;round&amp;quot; stroke-linejoin=&amp;quot;round&amp;quot;&amp;gt;</description>
     </item>
     
