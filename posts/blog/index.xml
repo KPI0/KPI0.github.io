@@ -17,7 +17,7 @@
       <pubDate>Tue, 20 Sep 2022 21:56:10 +0800</pubDate>
       
       <guid>https://kpi0.github.io/posts/blog/config.yaml%E9%85%8D%E7%BD%AE%E5%8F%82%E8%80%83/</guid>
-      <description>根据自己的需求更改 baseURL: &amp;quot;https://kpi0.github.io/&amp;quot; # 博客部署网址 title: KPI0&#39;s Blog # 网站标题(中间+底部) languageCode: zh-cn # en-us paginate: 10 # 默认每页列表显示的文章数目 theme: PaperMod # 主题名字，和themes文件</description>
+      <description>生成的config.toml改为config.yaml 以下配置根据自己的需求更改 baseURL: &amp;quot;https://kpi0.github.io/&amp;quot; # 博客部署网址 title: KPI0&#39;s Blog # 网站标题(中间+底部) languageCode: zh-cn # en-us paginate: 10</description>
     </item>
     
   </channel>
