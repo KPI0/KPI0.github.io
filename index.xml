@@ -12,12 +12,12 @@
     <language>zh-cn</language>
     <lastBuildDate>Tue, 20 Sep 2022 21:56:10 +0800</lastBuildDate><atom:link href="https://kpi0.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
+      <title>hugo-papermod配置</title>
       <link>https://kpi0.github.io/posts/blog/hugo-papermod%E9%85%8D%E7%BD%AE/</link>
       <pubDate>Tue, 20 Sep 2022 21:56:10 +0800</pubDate>
       
       <guid>https://kpi0.github.io/posts/blog/hugo-papermod%E9%85%8D%E7%BD%AE/</guid>
-      <description>测试测试测试</description>
+      <description>baseURL: &amp;ldquo;https://kpi0.github.io/&amp;quot; # 博客部署网址 title: KPI0&amp;rsquo;s Blog # 网站标题(中间+底部) languageCode: zh-cn # en-us paginate: 10 # 默认每页列表显示的文章数目 theme: PaperMod # 主题名字，和themes文件夹下的一致 enableEmoji: true # 允</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Mon, 19 Sep 2022 22:05:02 +0800</pubDate>
       
       <guid>https://kpi0.github.io/about/</guid>
-      <description>我是谁？</description>
+      <description>网站核心 Hugo静态网站生成器 主题hugo-PaperMod</description>
     </item>
     
     
