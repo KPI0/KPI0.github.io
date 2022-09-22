@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kpi0.github.io/posts/</loc>
+    <loc>https://kpi0.github.io/posts/blog/</loc>
     <lastmod>2022-09-20T21:56:10+08:00</lastmod>
   </url><url>
-    <loc>https://kpi0.github.io/posts/blog/</loc>
+    <loc>https://kpi0.github.io/posts/</loc>
     <lastmod>2022-09-20T21:56:10+08:00</lastmod>
   </url><url>
     <loc>https://kpi0.github.io/</loc>
     <lastmod>2022-09-20T21:56:10+08:00</lastmod>
   </url><url>
-    <loc>https://kpi0.github.io/posts/blog/my-first-post/</loc>
+    <loc>https://kpi0.github.io/posts/blog/hugo-papermod%E9%85%8D%E7%BD%AE/</loc>
     <lastmod>2022-09-20T21:56:10+08:00</lastmod>
   </url><url>
     <loc>https://kpi0.github.io/tags/</loc>
@@ -23,13 +23,11 @@
     <loc>https://kpi0.github.io/tags/about/</loc>
     <lastmod>2022-09-19T22:05:02+08:00</lastmod>
   </url><url>
-    <loc>https://kpi0.github.io/search/</loc>
-  </url><url>
     <loc>https://kpi0.github.io/posts/others/</loc>
   </url><url>
-    <loc>https://kpi0.github.io/posts/stc/</loc>
+    <loc>https://kpi0.github.io/search/</loc>
   </url><url>
-    <loc>https://kpi0.github.io/posts/stm/</loc>
+    <loc>https://kpi0.github.io/posts/tech/</loc>
   </url><url>
     <loc>https://kpi0.github.io/posts/tool/</loc>
   </url><url>
