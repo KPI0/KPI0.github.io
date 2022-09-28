@@ -47,5 +47,14 @@
       <description>文件目录\HUGO\blog\layouts_default\search.html {{- define &amp;quot;main&amp;quot; }} &amp;lt;header class=&amp;quot;page-header&amp;quot;&amp;gt; &amp;lt;h1&amp;gt;{{- (printf &amp;quot;%s&amp;amp;nbsp;&amp;quot; .Title ) | htmlUnescape -}} &amp;lt;!-- &amp;lt;svg xmlns=&amp;quot;http://www.w3.org/2000/svg&amp;quot; width=&amp;quot;28&amp;quot; height=&amp;quot;28&amp;quot; viewBox=&amp;quot;0 0 24 24&amp;quot; fill=&amp;quot;none&amp;quot; stroke=&amp;quot;currentColor&amp;quot; stroke-width=&amp;quot;2&amp;quot; stroke-linecap=&amp;quot;round&amp;quot; stroke-linejoin=&amp;quot;round&amp;quot;&amp;gt;</description>
     </item>
     
+    <item>
+      <title>语法规则</title>
+      <link>https://kpi0.github.io/posts/blog/%E8%AF%AD%E6%B3%95%E8%A7%84%E5%88%99/</link>
+      <pubDate>Tue, 20 Sep 2022 21:56:10 +0800</pubDate>
+      
+      <guid>https://kpi0.github.io/posts/blog/%E8%AF%AD%E6%B3%95%E8%A7%84%E5%88%99/</guid>
+      <description>文字居左 文字居右 文字居中</description>
+    </item>
+    
   </channel>
 </rss>
