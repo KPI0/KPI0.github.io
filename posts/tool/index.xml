@@ -9,8 +9,7 @@
       <link>https://kpi0.github.io/images/who.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Tue, 20 Sep 2022 21:56:10 +0800</lastBuildDate><atom:link href="https://kpi0.github.io/posts/tool/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language><atom:link href="https://kpi0.github.io/posts/tool/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WPD – Windows隐私设置工具</title>
       <link>https://kpi0.github.io/posts/tool/wpd-windows%E9%9A%90%E7%A7%81%E8%AE%BE%E7%BD%AE%E5%B7%A5%E5%85%B7/</link>
