@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>🛠️工具 on KPI0&#39;s Blog</title>
-    <link>https://kpi0.github.io/posts/tool/</link>
+    <link>https://996plus.icu/posts/tool/</link>
     <description>Recent content in 🛠️工具 on KPI0&#39;s Blog</description>
     <image>
-      <url>https://kpi0.github.io/images/who.png</url>
-      <link>https://kpi0.github.io/images/who.png</link>
+      <url>https://996plus.icu/images/who.png</url>
+      <link>https://996plus.icu/images/who.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="https://kpi0.github.io/posts/tool/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language><atom:link href="https://996plus.icu/posts/tool/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WPD – Windows隐私设置工具</title>
-      <link>https://kpi0.github.io/posts/tool/wpd-windows%E9%9A%90%E7%A7%81%E8%AE%BE%E7%BD%AE%E5%B7%A5%E5%85%B7/</link>
+      <link>https://996plus.icu/posts/tool/wpd-windows%E9%9A%90%E7%A7%81%E8%AE%BE%E7%BD%AE%E5%B7%A5%E5%85%B7/</link>
       <pubDate>Tue, 20 Sep 2022 21:56:10 +0800</pubDate>
       
-      <guid>https://kpi0.github.io/posts/tool/wpd-windows%E9%9A%90%E7%A7%81%E8%AE%BE%E7%BD%AE%E5%B7%A5%E5%85%B7/</guid>
+      <guid>https://996plus.icu/posts/tool/wpd-windows%E9%9A%90%E7%A7%81%E8%AE%BE%E7%BD%AE%E5%B7%A5%E5%85%B7/</guid>
       <description>软件官网：https://wpd.app WPD，运行于 Windows 系统，是一款免费的隐私优化防火墙管理软件。 禁止系统更新，关闭防火墙，禁止系统遥测 卸载</description>
     </item>
     
