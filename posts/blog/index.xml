@@ -16,7 +16,7 @@
       <pubDate>Tue, 20 Sep 2022 21:56:10 +0800</pubDate>
       
       <guid>https://996plus.icu/posts/blog/config.yaml%E9%85%8D%E7%BD%AE%E5%8F%82%E8%80%83/</guid>
-      <description>生成的config.toml建议改为config.yaml 以下配置根据自己的需求更改 baseURL: &amp;quot;https://kpi0.github.io/&amp;quot; # 博客部署网址 title: KPI0&#39;s Blog # 网站标题(中间+底部) languageCode: zh-cn # en-us</description>
+      <description>生成的config.toml建议改为config.yaml 以下配置（yaml格式）根据自己的需求更改 注意：yaml，toml格式不通用。 参考</description>
     </item>
     
     <item>

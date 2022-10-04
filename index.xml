@@ -17,7 +17,7 @@
       <pubDate>Tue, 20 Sep 2022 21:56:10 +0800</pubDate>
       
       <guid>https://996plus.icu/posts/blog/config.yaml%E9%85%8D%E7%BD%AE%E5%8F%82%E8%80%83/</guid>
-      <description>生成的config.toml建议改为config.yaml 以下配置根据自己的需求更改 baseURL: &amp;quot;https://kpi0.github.io/&amp;quot; # 博客部署网址 title: KPI0&#39;s Blog # 网站标题(中间+底部) languageCode: zh-cn # en-us</description>
+      <description>生成的config.toml建议改为config.yaml 以下配置（yaml格式）根据自己的需求更改 注意：yaml，toml格式不通用。 参考</description>
     </item>
     
     <item>
@@ -57,7 +57,7 @@
     </item>
     
     <item>
-      <title>Web3.0</title>
+      <title>Web3.0（未完待续）</title>
       <link>https://996plus.icu/posts/others/web3.0/</link>
       <pubDate>Tue, 20 Sep 2022 21:56:10 +0800</pubDate>
       
@@ -93,7 +93,7 @@
     </item>
     
     <item>
-      <title>网站软件推荐</title>
+      <title>网站软件推荐（未完待续）</title>
       <link>https://996plus.icu/posts/others/%E7%BD%91%E7%AB%99%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</link>
       <pubDate>Tue, 20 Sep 2022 21:56:10 +0800</pubDate>
       
@@ -102,7 +102,7 @@
     </item>
     
     <item>
-      <title>🙋🏻‍关于</title>
+      <title>ℹ️关于</title>
       <link>https://996plus.icu/about/</link>
       <pubDate>Mon, 19 Sep 2022 22:05:02 +0800</pubDate>
       
