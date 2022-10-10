@@ -12,6 +12,18 @@
     <language>zh-cn</language>
     <lastBuildDate>Tue, 20 Sep 2022 21:56:10 +0800</lastBuildDate><atom:link href="https://996plus.icu/index.xml" rel="self" type="application/rss+xml" />
     <item>
+<<<<<<< HEAD
+=======
+      <title>404页面配置参考</title>
+      <link>https://996plus.icu/posts/blog/404%E9%A1%B5%E9%9D%A2%E9%85%8D%E7%BD%AE%E5%8F%82%E8%80%83/</link>
+      <pubDate>Tue, 20 Sep 2022 21:56:10 +0800</pubDate>
+      
+      <guid>https://996plus.icu/posts/blog/404%E9%A1%B5%E9%9D%A2%E9%85%8D%E7%BD%AE%E5%8F%82%E8%80%83/</guid>
+      <description>目录\layouts\404.html 默认的 {{- define &amp;quot;main&amp;quot; }} &amp;lt;div class=&amp;quot;not-found&amp;quot;&amp;gt;404&amp;lt;/div&amp;gt; {{- end }}{{/* end main */ -}} 404公益（模块之一） &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;meta charset=&amp;quot;utf-8&amp;quot;/&amp;gt; &amp;lt;script src=&amp;quot;//cdn.zhaolinlang.com/cdn.dnpw.org/404/v1.min.js&amp;quot; maincolor=&amp;quot;#f00&amp;quot; jumptime=&amp;quot;10&amp;quot; jumptarget=&amp;quot;/&amp;quot; tips=&amp;quot;404&amp;quot; error=&amp;quot;&amp;quot; charset=&amp;quot;utf-8&amp;quot;&amp;gt;&amp;lt;/script&amp;gt; &amp;lt;script&amp;gt; function diy(){ } &amp;lt;/script&amp;gt; &amp;lt;!-- 欢迎加入40</description>
+    </item>
+    
+    <item>
+>>>>>>> c3cc907 (first commit)
       <title>config.yaml配置参考</title>
       <link>https://996plus.icu/posts/blog/config.yaml%E9%85%8D%E7%BD%AE%E5%8F%82%E8%80%83/</link>
       <pubDate>Tue, 20 Sep 2022 21:56:10 +0800</pubDate>
