@@ -2,15 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-<<<<<<< HEAD
-=======
     <loc>https://996plus.icu/tags/404/</loc>
-    <lastmod>2022-10-10T17:28:40+08:00</lastmod>
+    <lastmod>2022-10-10T17:54:29+08:00</lastmod>
   </url><url>
     <loc>https://996plus.icu/posts/blog/404%E9%A1%B5%E9%9D%A2%E9%85%8D%E7%BD%AE%E5%8F%82%E8%80%83/</loc>
-    <lastmod>2022-10-10T17:28:40+08:00</lastmod>
+    <lastmod>2022-10-10T17:54:29+08:00</lastmod>
   </url><url>
->>>>>>> c3cc907 (first commit)
     <loc>https://996plus.icu/tags/blog/</loc>
     <lastmod>2022-10-05T13:49:44+08:00</lastmod>
   </url><url>
@@ -24,11 +21,7 @@
     <lastmod>2022-09-29T14:54:39+08:00</lastmod>
   </url><url>
     <loc>https://996plus.icu/</loc>
-<<<<<<< HEAD
-    <lastmod>2022-10-10T14:29:11+08:00</lastmod>
-=======
-    <lastmod>2022-10-10T17:28:40+08:00</lastmod>
->>>>>>> c3cc907 (first commit)
+    <lastmod>2022-10-10T17:54:29+08:00</lastmod>
   </url><url>
     <loc>https://996plus.icu/posts/blog/markdown%E8%AF%AD%E6%B3%95%E8%A7%84%E5%88%99/</loc>
     <lastmod>2022-10-05T13:06:42+08:00</lastmod>

@@ -11,8 +11,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language><atom:link href="https://996plus.icu/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-<<<<<<< HEAD
-=======
       <title>404</title>
       <link>https://996plus.icu/tags/404/</link>
       <pubDate>Tue, 20 Sep 2022 21:56:10 +0800</pubDate>
@@ -22,7 +20,6 @@
     </item>
     
     <item>
->>>>>>> c3cc907 (first commit)
       <title>blog</title>
       <link>https://996plus.icu/tags/blog/</link>
       <pubDate>Tue, 20 Sep 2022 21:56:10 +0800</pubDate>
