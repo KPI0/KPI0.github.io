@@ -11,12 +11,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language><atom:link href="https://996plus.icu/posts/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>基于单片机的智能鱼缸监控系统设计</title>
+      <link>https://996plus.icu/posts/tech/%E5%9F%BA%E4%BA%8E%E5%8D%95%E7%89%87%E6%9C%BA%E7%9A%84%E6%99%BA%E8%83%BD%E9%B1%BC%E7%BC%B8%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/</link>
+      <pubDate>Sat, 05 Nov 2022 21:56:10 +0800</pubDate>
+      
+      <guid>https://996plus.icu/posts/tech/%E5%9F%BA%E4%BA%8E%E5%8D%95%E7%89%87%E6%9C%BA%E7%9A%84%E6%99%BA%E8%83%BD%E9%B1%BC%E7%BC%B8%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/</guid>
+      <description>基于单片机的智能鱼缸监控系统设计 项目地址 课题简介： 随着经济水平的迅速发展，人们对家庭娱乐设施的需求越来越高，休闲水族行业也正是在这种需求下应</description>
+    </item>
+    
+    <item>
+      <title>交通灯控制系统</title>
+      <link>https://996plus.icu/posts/tech/%E4%BA%A4%E9%80%9A%E7%81%AF%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F/</link>
+      <pubDate>Sat, 05 Nov 2022 21:56:10 +0800</pubDate>
+      
+      <guid>https://996plus.icu/posts/tech/%E4%BA%A4%E9%80%9A%E7%81%AF%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F/</guid>
+      <description>项目地址 注意：Proteus仿真图是按照说明书画的，而嘉立创EDA是按照实物图画的，所以有较大出入。</description>
+    </item>
+    
+    <item>
       <title>fuck-Ads</title>
       <link>https://996plus.icu/posts/tech/fuck-ads/</link>
       <pubDate>Tue, 20 Sep 2022 21:56:10 +0800</pubDate>
       
       <guid>https://996plus.icu/posts/tech/fuck-ads/</guid>
-      <description>uBlock Origin uBlock Origin 扩展程序_源码地址：uBlock uBlock Origin 扩展程序_安装地址：Microsoft Edge、Chrome、Firefox、Opera 支持此扩</description>
+      <description>uBlock Origin uBlock Origin 扩展程序_源码地址：uBlock uBlock Origin 扩展程序_安装地址：Microsoft Edge、 Chrome、 Firefox、 Opera 支持此扩展程序的</description>
     </item>
     
   </channel>
